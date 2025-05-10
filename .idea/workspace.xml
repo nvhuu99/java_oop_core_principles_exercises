@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0a36da9-d4a0-4339-a29e-09ebcfffba56" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/animalControl/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/animalControl/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/animalControl/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/animalControl/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/animalControl/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/animalControl/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example/bank/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example/bank/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example/bank/CheckingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example/bank/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example/bank/SavingsAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example/bank/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example/bank/TransactionHistory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +33,9 @@
   "associatedIndex": 4
 }]]></component>
   <component name="ProjectId" id="2wtqECt2chsCfvlHflBTAjZ6zEo" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,6 +49,26 @@
     "onboarding.tips.debug.path": "C:/Users/huu.nv/Desktop/sources/VTI/java_oop_core_principles_exercises/src/main/java/org/example/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.bank.Main" />
+      <module name="java_oop_core_principles_exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.bank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
