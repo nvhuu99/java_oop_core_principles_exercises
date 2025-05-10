@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0a36da9-d4a0-4339-a29e-09ebcfffba56" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/inheritanceWithPolymorphism/FullTimeEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/inheritanceWithPolymorphism/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/inheritanceWithPolymorphism/PartTimeEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/example/inheritanceWithPolymorphism/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/example/inheritanceWithPolymorphism/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example/animalControl/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example/animalControl/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example/animalControl/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example/animalControl/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example/animalControl/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example/animalControl/Zoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
