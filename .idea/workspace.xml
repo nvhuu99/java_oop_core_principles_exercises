@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0a36da9-d4a0-4339-a29e-09ebcfffba56" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/bank/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/bank/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/bank/CheckingAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/bank/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/bank/SavingsAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/bank/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/bank/TransactionHistory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example/lms/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example/lms/Instructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example/lms/LMS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example/lms/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example/lms/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example/lms/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -43,13 +45,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.example.lms.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/huu.nv/Desktop/sources/VTI/java_oop_core_principles_exercises/src/main/java/org/example/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.example.lms.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="example.bank.Main" />
       <module name="java_oop_core_principles_exercises" />
@@ -63,8 +66,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="example.lms.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.lms.Main" />
+      <module name="java_oop_core_principles_exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.lms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.example.lms.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
